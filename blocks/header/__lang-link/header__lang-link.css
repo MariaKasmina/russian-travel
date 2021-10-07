@@ -1,0 +1,12 @@
+.header__lang-link {
+  font-family: Inter, serif;
+  font-size: 1.5rem;
+  line-height: 1.2;
+  color: white;
+  margin-left: 1.125rem;
+  transition: opacity 1s linear;
+}
+
+.header__lang-link:hover {
+  opacity: .6;
+}
