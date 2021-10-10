@@ -9,3 +9,10 @@
   "place__title place__website"
   "place__image place__paragraphs";
 }
+
+@media (max-width: 1024px) {
+  .place {
+    grid-template-columns: 440px 1fr;
+    column-gap: 32px;
+  }
+}
