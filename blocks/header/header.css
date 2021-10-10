@@ -4,9 +4,9 @@
   justify-content: space-between;
 }
 
-@media (min-width: 1024px) {
+@media (max-width: 1024px) {
   .header {
-    margin: 28px 24px 48px;
+    margin: 28px 48px 48px;
   }
 }
 

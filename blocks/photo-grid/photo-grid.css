@@ -2,6 +2,12 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
   max-width: 1184px;
-  margin: auto;
   gap: 16px;
+}
+
+@media (max-width: 1024px) {
+  .photo-grid {
+    margin-left: 48px;
+    margin-right: 48px;
+  }
 }
