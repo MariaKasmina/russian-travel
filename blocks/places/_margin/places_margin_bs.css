@@ -9,3 +9,10 @@
     margin-top: 73px;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .places_margin_bs {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

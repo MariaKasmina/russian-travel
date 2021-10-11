@@ -29,3 +29,9 @@
 .cover:hover:after {
   opacity: .6;
 }
+
+@media screen and (max-width: 320px) {
+  .cover {
+    min-height: 200px;
+  }
+}
