@@ -8,3 +8,10 @@
     margin-right: 48px;
   }
 }
+
+@media (max-width: 930px) {
+  .place_margin_bs {
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+}

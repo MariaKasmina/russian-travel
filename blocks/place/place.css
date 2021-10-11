@@ -1,6 +1,5 @@
 .place {
   max-width: 984px;
-  max-height: 660px;
   display: grid;
   grid-template-columns: 460px 1fr;
   column-gap: 40px;
@@ -10,16 +9,18 @@
   "place__image place__paragraphs";
 }
 
-@media screen and (max-width: 768px) {
-  .place {
-    grid-template-columns: 340px 1fr;
-    column-gap: 28px;
-  }
-}
+
 
 @media (max-width: 1024px) {
   .place {
     grid-template-columns: 440px 1fr;
     column-gap: 32px;
+  }
+}
+
+@media (max-width: 930px) {
+  .place {
+    grid-template-columns: 340px 1fr;
+    column-gap: 28px;
   }
 }

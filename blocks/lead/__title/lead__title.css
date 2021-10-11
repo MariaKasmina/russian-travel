@@ -3,15 +3,8 @@
   font-family: Inter, serif;
   font-weight: 900;
   font-style: normal;
-  font-size: 6rem;
+  font-size: 96px;
   line-height: 100px;
   color: white;
-  margin: 0 132px 32px;
-}
-
-@media screen and (max-width: 768px) {
-  .lead__title {
-    margin-right: 24px;
-    margin-left: 24px;
-  }
+  margin: 0 auto 32px;
 }

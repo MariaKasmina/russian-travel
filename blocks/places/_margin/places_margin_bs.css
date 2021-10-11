@@ -2,7 +2,7 @@
   margin: 92px auto;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 930px) {
   .places_margin_bs {
     margin-left: 24px;
     margin-right: 24px;
