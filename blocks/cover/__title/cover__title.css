@@ -19,7 +19,7 @@
   }
 }
 
-@media (min-width: 325px) and (max-width: 424px) {
+@media (min-width: 320px) and (max-width: 424px) {
   .cover__title {
     font-size: 32px;
     line-height: 35px;
