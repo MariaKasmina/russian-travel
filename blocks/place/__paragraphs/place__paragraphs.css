@@ -9,3 +9,10 @@
     row-gap: 25px;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .place__paragraphs {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}
