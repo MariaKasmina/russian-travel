@@ -30,9 +30,9 @@
   opacity: .6;
 }
 
-@media (min-width: 300px) and (max-width: 767px) {
+@media (min-width: 320px) and (max-width: 768px) {
   .cover {
-    min-height: 300px;
+    min-height: 480px;
   }
 }
 

@@ -13,3 +13,9 @@
     margin-bottom: 70px;
   }
 }
+
+@media (min-width: 320px) and (max-width: 768px) {
+  .page__container-cover {
+    margin-bottom: 64px;
+  }
+}

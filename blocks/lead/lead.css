@@ -12,6 +12,13 @@
   }
 }
 
+@media (max-width: 768px) {
+  .lead {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
 @media (max-width: 425px) {
   .lead {
     margin-left: 24px;
