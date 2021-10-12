@@ -44,7 +44,7 @@
 
 /*Cover*/
 @import url(../blocks/cover/cover.css);
-@import url(../blocks/cover/__container-cover/cover__container.css);
+@import url(../blocks/cover/_margins/cover_margins_bs.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 

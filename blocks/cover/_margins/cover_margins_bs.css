@@ -1,21 +1,21 @@
-.cover__container {
+.cover_margins_bs {
   margin: 0 auto 92px;
 }
 
 @media screen and (max-width: 768px) {
-  .cover__container {
+  .cover_margins_bs {
     margin-bottom: 88px;
   }
 }
 
 @media (min-width: 425px) and (max-width: 767px) {
-  .cover__container {
+  .cover_margins_bs {
     margin-bottom: 70px;
   }
 }
 
 @media (min-width: 320px) and (max-width: 768px) {
-  .cover__container {
+  .cover_margins_bs {
     margin-bottom: 64px;
   }
 }
