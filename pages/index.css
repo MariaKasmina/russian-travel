@@ -3,9 +3,7 @@
 @import url(../vendor/inter.css);
 
 /*Хедер*/
-@import url(../blocks/page/page.css);
-@import url(../blocks/page/__container/page__container.css);
-@import url(../blocks/page/__container-cover/page__container-cover.css);
+@import url(../blocks/root/__container/root__container.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang-link/_not-underline/header__lang-link_not-underline.css);
@@ -46,6 +44,7 @@
 
 /*Cover*/
 @import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__container-cover/cover__container.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 
