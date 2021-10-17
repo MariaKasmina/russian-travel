@@ -6,8 +6,9 @@
   line-height: 22px;
   color: white;
   transition: opacity 1s linear;
+  max-width: fit-content;
 }
 
 .place__link:hover {
-  opacity: .6;
+  opacity: .8;
 }
