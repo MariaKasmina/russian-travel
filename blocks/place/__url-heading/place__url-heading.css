@@ -6,4 +6,13 @@
   line-height: 1;
   color: #AAAAAA;
   margin-top: 0;
+  margin-bottom: 0;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+@media screen and (max-width: 768px) {
+  .place__url-heading {
+    margin-bottom: 12px;
+  }
 }

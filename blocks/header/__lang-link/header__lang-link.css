@@ -7,10 +7,11 @@
   color: white;
   margin-left: 18px;
   transition: opacity 1s linear;
+  text-decoration: none;
 }
 
 .header__lang-link:hover {
-  opacity: .6;
+  opacity: .8;
 }
 
 @media (max-width: 320px) {
